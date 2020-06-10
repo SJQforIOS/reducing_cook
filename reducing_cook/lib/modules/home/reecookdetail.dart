@@ -1,1 +1,1 @@
-import 'package:flutter/material.dart';class detaileEcook extends StatelessWidget {  @override  Widget build(BuildContext context) {    // TODO: implement build    return Scaffold(      appBar: AppBar(        title: Text('菜谱详情'),      ),    );  }}
+import 'package:flutter/material.dart';/// TODO: 此处需大驼峰命名法class detaileEcook extends StatelessWidget {  @override  Widget build(BuildContext context) {    return Scaffold(      appBar: AppBar(        title: Text('菜谱详情'),      ),    );  }}
