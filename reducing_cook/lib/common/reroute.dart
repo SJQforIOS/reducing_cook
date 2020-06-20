@@ -1,0 +1,1 @@
+import 'package:ecook/modules/search/research.dart';import 'package:flutter/material.dart';class reRoute {  //跳转到搜索页  static presentToSearchVC(BuildContext context) {    Navigator.push(context, MaterialPageRoute(      fullscreenDialog: true,      builder: (context) {        return NewSearch();      }    ),);  }}

@@ -19,14 +19,17 @@ version: 1.0.0+1
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
-
-
-
-
-
 dependencies:
   flutter:
     sdk: flutter
+
+  # app 信息
+  package_info: '>=0.4.1 <2.0.0'
+  # 设备信息
+  device_info: ^0.2.1
+  # 网络
+  dio: ^3.0.9
+  json_annotation: ^2.0.0
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -37,10 +40,14 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
-# For information on the generic Dart part of this file, see the
-# following page: https://dart.dev/tools/pub/pubspec
+  # app 信息
+  package_info: '>=0.4.1 <2.0.0'
+  # 设备信息
+  device_info: ^0.2.1
+  # 网络
+  dio: ^3.0.9
+  json_annotation: ^2.0.0
 
-# The following section is specific to Flutter.
 flutter:
 
   # The following line ensures that the Material Icons font is
@@ -63,6 +70,10 @@ flutter:
     - assets/home_pic2.png
     - assets/home_pic3.png
     - assets/zj_zan_def.png
+    - assets/home_tab_sc.png
+    - assets/home_js.png
+    - assets/home_my.png
+    - assets/home_ss.png
     - assets/other/
 
   # 字体

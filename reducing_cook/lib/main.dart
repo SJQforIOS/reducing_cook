@@ -12,6 +12,10 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Flutter Demo',
       theme: ThemeData(
+
+        highlightColor: Color(0x00FFFFFF),
+        splashColor: Color(0x00FFFFFF),
+        brightness: Brightness.light,
         primarySwatch: Colors.green,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
