@@ -74,6 +74,9 @@ flutter:
     - assets/home_js.png
     - assets/home_my.png
     - assets/home_ss.png
+    - assets/sc_bj.png
+    - assets/collection_edit_def.png
+    - assets/collection_edit_select.png
     - assets/other/
 
   # 字体
