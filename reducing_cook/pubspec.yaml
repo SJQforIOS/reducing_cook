@@ -77,6 +77,11 @@ flutter:
     - assets/sc_bj.png
     - assets/collection_edit_def.png
     - assets/collection_edit_select.png
+    - assets/detail_back.png
+    - assets/detail_add.png
+    - assets/detail_zan.png
+    - assets/detail_userbg.png
+    - assets/jz_pic2.png
     - assets/other/
 
   # 字体
