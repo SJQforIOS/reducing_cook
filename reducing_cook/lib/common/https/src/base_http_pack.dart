@@ -28,6 +28,8 @@ Future<Map<String, String>> packHttpRequestParams(data) async {
     };
   }
   if(data == null) return _publicParamsMap;
-  data.addAll(_publicParamsMap);
-  return data;
+  Map<String, String> muDict = Map();
+  muDict.addAll(_publicParamsMap);
+  muDict.addAll(data);
+  return muDict;
 }
