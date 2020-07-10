@@ -1,21 +1,3 @@
-/// hasVideo : false
-/// imageid : "260119216"
-/// collectCount : "229"
-/// description : "采用天然健康的食材，不加糖不加盐不用油，而且没有添加泡打粉，搭配坚果和水果，健康减脂早餐开启美好新一天~ 因为健康无添加而且松软，小宝宝也可以吃哦~"
-/// likeCount : "32"
-/// authorid : "257500674"
-/// type : "0"
-/// commentCount : "14"
-/// tags : ["健康","减肥","松饼","水果","炒","牛奶","面粉","鸡蛋"]
-/// videourl : ""
-/// authorname : "小菁同学"
-/// name : "无油无糖香蕉松饼"
-/// exclusive : 0
-/// id : "260119304"
-/// viewCount : "810"
-/// authorimageid : "262728618"
-
-import 'package:json_annotation/json_annotation.dart';
 
 /// name : "减脂健身"
 /// state : "200"
